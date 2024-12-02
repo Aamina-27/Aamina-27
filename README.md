@@ -1,5 +1,5 @@
-👋 Hi, I’m @Aamina-27
-👀 I’m interested in software development, data science, and learning new programming languages.
+👋 Hi, I’m @Aamina-24
+👀 I’m interested in software development, artificial intelligence, and learning new programming languages.
 🌱 I’m currently learning Python, French, and advanced algorithms.
 💞️ I’m looking to collaborate on open-source projects, hackathons, and coding challenges.
 📫 How to reach me: You can reach me via email at aaminathamiz@gmail.com .
